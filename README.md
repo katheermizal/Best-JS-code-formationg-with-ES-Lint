@@ -15,3 +15,7 @@ Install the following extensions <br />
 3. [Debugger for Chrome - If Required Only](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 4. [Pretty Formatter - If Required Only](https://marketplace.visualstudio.com/items?itemName=mblode.pretty-formatter)
 
+## REFERENCE
+
+  You can able to check more ESLint rules from [here](https://eslint.org/docs/rules/)
+
